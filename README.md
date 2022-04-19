@@ -1,4 +1,5 @@
-![Banner](https://media-exp1.licdn.com/dms/image/C4E16AQFl1KQRNOFLTA/profile-displaybackgroundimage-shrink_350_1400/0/1604088960071?e=1649894400&v=beta&t=EVs88QL_Aef87BXqcwq3n-xLrkkN5RdUMj_h0V9QL9I)
+<!-- I need to change the link on this so it is from my website instead of LinkedIn's CDN. Some day I'll get to it.. -->
+![Banner](https://media-exp1.licdn.com/dms/image/C4E16AQFl1KQRNOFLTA/profile-displaybackgroundimage-shrink_200_800/0/1604088960071?e=2147483647&v=beta&t=DcIwdAv5BdMkY3k2uMDyAzl-7mFlweWXsweLGwn2tdM)
 ### Hi, I'm Shaun 👋 
 [![LinkedIn Badge](https://img.shields.io/badge/-Shaun%20Loftin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaunloftin/)](https://www.linkedin.com/in/shaunloftin)
 [![Website Badge](https://img.shields.io/badge/-shaunloftin.com-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://www.shaunloftin.com)](https://www.shaunloftin.com)
